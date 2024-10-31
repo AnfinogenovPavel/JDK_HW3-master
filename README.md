@@ -17,7 +17,3 @@
 разного типа. Класс должен иметь методы *getFirst()*, *getSecond()* для
 получения значений пары, а также переопределение метода *toString()*,
 возвращающее строковое представление пары.
-
-## Пример
-
-![Пример выполения](https://raw.githubusercontent.com/alexeycoder/illustrations/main/java-jdk-hw3/example2.png)
